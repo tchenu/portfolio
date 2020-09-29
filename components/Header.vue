@@ -16,16 +16,16 @@
         </a>
       </div>
       <div class="right flex items-center">
-        <a class="px-3" href="#">
+        <a class="px-3" href="https://github.com/tchenu">
           <img src="~/assets/icons/github.svg" />
         </a>
-        <a class="px-3" href="#">
+        <a class="px-3" href="https://twitter.com/thibeault_chenu">
           <img src="~/assets/icons/twitter.svg" />
         </a>
-        <a class="px-3" href="#">
+        <a class="px-3" href="https://www.malt.fr/profile/thibeaultchenu">
           <img src="~/assets/icons/malt.svg" />
         </a>
-        <a class="px-3" href="#">
+        <a class="px-3" href="mailto:hello@tchenu.com">
           <img src="~/assets/icons/mail.svg" />
         </a>
       </div>
