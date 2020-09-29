@@ -1,9 +1,9 @@
 <template>
   <div id="skills" class="container mx-auto mt-10 p-8">
     <h1 class="text-center text-4xl text-blue-700 font-bold">My skills</h1>
-    <ul class="flex justify-center items-center mt-8">
+    <ul class="flex flex-wrap justify-center items-center mt-8">
       <li
-        class="mx-5 p-3 bg-blue-200 text-blue-700 rounded transition duration-500 cursor-pointer font-medium"
+        class="mx-5 xs:p-0 p-3 bg-blue-200 text-blue-700 rounded transition duration-500 cursor-pointer font-medium"
       >
         Frameworks and librairies
       </li>
