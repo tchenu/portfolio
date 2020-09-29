@@ -1,5 +1,7 @@
 <template>
-  <div class="container mx-auto mt-24 p-8 rounded-lg bg-blue-100 items-center">
+  <div
+    class="container mx-auto mt-0 md:mt-24 p-8 rounded-lg bg-blue-100 items-center"
+  >
     <div class="flex justify-between items-center">
       <div>
         <h1 class="font-light text-3xl">Hello 👋🏻</h1>
@@ -27,7 +29,7 @@
           <br />
         </p>
       </div>
-      <div>
+      <div class="hidden md:block">
         <img src="~/assets/images/me.svg" />
       </div>
     </div>
