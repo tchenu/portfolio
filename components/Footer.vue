@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="bg-blue-100">
     <div
       class="container mx-auto flex justify-around text-blue-700 h-16 items-center"
     >
