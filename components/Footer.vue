@@ -1,7 +1,7 @@
 <template>
-  <div class="bg-blue-100 mt-10">
+  <div>
     <div
-      class="container mx-auto flex justify-around text-blue-700 h-16 items-center"
+      class="container mx-auto flex justify-around h-16 text-blue-700 items-center"
     >
       <span>Made in 🇫🇷 with ❤️</span>
       <span>
