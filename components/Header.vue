@@ -2,16 +2,16 @@
   <header class="container mx-auto">
     <nav class="flex justify-between items-center h-24">
       <div class="left">
-        <a class="px-6 font-medium text-blue-700 text-lg" href="#skills">
+        <a class="px-6 font-medium text-blue-700 md:text-lg" href="#skills">
           Skills
         </a>
         <a
-          class="px-6 font-medium text-blue-700 text-lg"
+          class="px-6 font-medium text-blue-700 md:text-lg"
           href="https://github.com/tchenu"
         >
           Code
         </a>
-        <a class="px-6 font-medium text-blue-700 text-lg" href="#articles">
+        <a class="px-6 font-medium text-blue-700 md:text-lg" href="#articles">
           Articles
         </a>
       </div>
