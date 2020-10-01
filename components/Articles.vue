@@ -12,7 +12,7 @@
             src="https://miro.medium.com/max/700/1*h89l_KJR8w2NrzQXtPCAmw.jpeg"
           />
         </div>
-        <div class="article-info-container">
+        <div class="article-info-container p-5 sm:p-0">
           <h1 class="font-extrabold pt-3 lg:pt-0 text-blue-700 text-3xl">
             How did I break a captcha with Puppeteer and Google Vision ?
           </h1>
@@ -21,7 +21,10 @@
             To prevent robots or users from misusing forms, the implementation
             of a CAPTCHA system is an effective and widespread solution.
           </p>
-          <a href="#" class="text-blue-500 absolute mt-5 lg:bottom-0">
+          <a
+            href="https://medium.com/@thibeaultchenu/how-did-i-break-a-captcha-with-puppeteer-and-google-vision-ccde4dde597c"
+            class="text-blue-500 absolute mt-5 lg:bottom-0"
+          >
             Lire sur Medium
             <img class="inline" src="~/assets/icons/more.svg" />
           </a>
@@ -32,7 +35,7 @@
       <div
         class="flex flex-col flex-col-reverse lg:flex-row justify-around relative max-w-6xl my-20 mx-auto"
       >
-        <div class="article-info-container">
+        <div class="article-info-container p-5 sm:p-0">
           <h1 class="font-extrabold pt-3 lg:pt-0 text-blue-700 text-3xl">
             Find My Contacts (or personal data of 650,000 people)
           </h1>
@@ -42,7 +45,10 @@
             contacts saved on your phone on a map (if they have installed the
             application obviously). 🗺️
           </p>
-          <a href="#" class="text-blue-500 absolute mt-5 lg:bottom-0">
+          <a
+            href="https://medium.com/@thibeaultchenu/find-my-contacts-or-personal-data-of-650000-people-9c4b0cd397b2"
+            class="text-blue-500 absolute mt-5 lg:bottom-0"
+          >
             Lire sur Medium
             <img class="inline" src="~/assets/icons/more.svg" />
           </a>
