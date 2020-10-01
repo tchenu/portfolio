@@ -2,7 +2,7 @@
   <div id="skills" class="container mx-auto mt-10 p-8">
     <h1 class="text-center text-4xl text-blue-700 font-bold">My skills</h1>
     <ul class="flex flex-wrap justify-center items-center mt-4">
-      <p class="text-blue-700">
+      <p class="text-blue-700 text-center">
         I have a variety of skills that allow me to produce quality projects
         that meet code standards.
       </p>
