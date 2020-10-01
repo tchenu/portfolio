@@ -30,6 +30,7 @@
           v-for="skill in tab.skills"
           :key="skill"
           class="justify-self-center hover:shadow-lg transition duration-500"
+          :alt="`${skill} banner`"
           :src="`/technologies/${skill}.svg`"
         />
       </div>

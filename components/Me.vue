@@ -17,7 +17,8 @@
           <br />
           <br />
 
-          I'm doing a work-study as a full-stack developer at
+          I'm currently in apprenticeship as
+          <span class="text-blue-500">full-stack developer</span> at
           <span class="text-blue-500">@SVP</span>.
           <br />
           <br />
@@ -30,18 +31,25 @@
         </p>
       </div>
       <div class="hidden md:block">
-        <img src="~/assets/images/me.svg" />
+        <img
+          alt="Image represents my 4 tech profiles"
+          src="~/assets/images/me.svg"
+        />
       </div>
     </div>
     <div>
       <a
-        class="px-10 py-3 text-white text-center bg-blue-600 rounded-md font-semibold align-middle"
-        href=""
+        id="hire-me"
+        class="inline-block shadow-xl px-10 py-3 text-white text-center bg-blue-600 rounded-md font-semibold align-middle"
+        href="https://www.malt.fr/profile/thibeaultchenu"
       >
         Hire me
       </a>
       <a
-        class="px-5 py-3 text-white text-center bg-blue-700 rounded-md mx-5 font-semibold align-middle"
+        id="cv"
+        target="_blank"
+        class="inline-block px-5 py-3 text-white text-center bg-blue-700 rounded-md mx-5 font-semibold align-middle"
+        href="/cv.pdf"
       >
         CV
       </a>
