@@ -6,20 +6,6 @@
         I have a variety of skills that allow me to produce quality projects
         that meet code standards.
       </p>
-      <!--<li
-        v-for="tab in tabs"
-        :key="tab.id"
-        :class="{ 'bg-blue-200 font-medium': tab.current }"
-        class="mx-5 xs:p-0 p-3 hover:bg-blue-200 hover:font-medium text-blue-700 rounded transition duration-500 cursor-pointer"
-        @click="setCurrentTab(tab.id)"
-      >
-        {{ tab.name }}
-      </li>!-->
-      <!--<li
-        class="mx-5 p-3 text-blue-700 hover:bg-blue-200 hover:font-medium rounded transition duration-300 cursor-pointer"
-      >
-        <img src="~/assets/icons/next.svg" />
-      </li>!-->
     </ul>
     <div v-for="tab in tabs" :key="tab.id">
       <div
