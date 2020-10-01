@@ -24,7 +24,7 @@
     <div v-for="tab in tabs" :key="tab.id">
       <div
         v-if="tab.current"
-        class="grid grid-flow-col justify-around grid-cols-3 grid-rows-4 gap-4 mt-12"
+        class="grid grid-flow-col justify-around grid-cols-3 grid-rows-4 gap-4 mt-12 mx-auto max-w-4xl"
       >
         <img
           v-for="skill in tab.skills"
@@ -59,7 +59,7 @@ export default {
             'php',
             // 'wordpress',
             'composer',
-            'jquery',
+            'tailwind',
             'bootstrap',
           ],
         },
