@@ -11,7 +11,7 @@
         <br />
         <span class="text-blue-700">
           Paris 🇫🇷 · 6 ans d'expérience · job@tchenu.com ·
-          <span class="font-medium text-blue-500">300 €</span> / jour
+          <span class="font-medium text-blue-500">350 €</span> / jour
         </span>
       </div>
     </div>
