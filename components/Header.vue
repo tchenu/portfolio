@@ -6,7 +6,7 @@
         <NuxtLink to="/" class="pr-6 font-medium text-blue-700 md:text-lg">
           🏠
         </NuxtLink>
-        <a class="px-6 font-medium text-blue-700 md:text-lg" href="#skills">
+        <a class="px-6 font-medium text-blue-700 md:text-lg" href="/#skills">
           Skills
         </a>
         <a
@@ -15,7 +15,7 @@
         >
           Code
         </a>
-        <a class="px-6 font-medium text-blue-700 md:text-lg" href="#articles">
+        <a class="px-6 font-medium text-blue-700 md:text-lg" href="/#articles">
           Articles
         </a>
       </div>
@@ -46,7 +46,7 @@
         >
           Github
         </a>
-        <a class="px-6 font-medium text-blue-700 md:text-lg" href="#articles">
+        <a class="px-6 font-medium text-blue-700 md:text-lg" href="/#articles">
           Articles
         </a>
       </div>
