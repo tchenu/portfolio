@@ -7,6 +7,7 @@
       <div class="ml-5">
         <h1 class="text-2xl font-semibold">Thibeault Chenu</h1>
         <p class="font-medium text-blue-600">Software Engineer 🐘</p>
+        <p class="font-medium text-blue-600">Bug Hunter 🔒</p>
         <br />
         <span class="text-blue-700">
           Paris 🇫🇷 · 6 ans d'expérience · job@tchenu.com ·
