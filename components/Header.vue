@@ -2,6 +2,9 @@
   <header class="container mx-auto">
     <nav class="flex justify-between items-center h-24">
       <div class="left">
+        <NuxtLink to="/" class="pr-6 font-medium text-blue-700 md:text-lg">
+          🏠
+        </NuxtLink>
         <a class="px-6 font-medium text-blue-700 md:text-lg" href="#skills">
           Skills
         </a>

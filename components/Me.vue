@@ -45,14 +45,13 @@
       >
         Hire me
       </a>
-      <a
+      <NuxtLink
         id="cv"
-        target="_blank"
+        to="/cv"
         class="inline-block px-5 py-3 text-white text-center bg-blue-700 rounded-md mx-5 font-semibold align-middle"
-        href="/cv.pdf"
       >
         CV
-      </a>
+      </NuxtLink>
     </div>
   </div>
 </template>

@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-blue-200 lg:mt-12" id="articles">
+  <div id="articles" class="bg-blue-200 lg:mt-12">
     <div class="container mx-auto py-1">
       <!-- ARTICLE 1 !-->
       <div
