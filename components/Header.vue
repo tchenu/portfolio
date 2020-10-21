@@ -44,7 +44,7 @@
           class="px-6 font-medium text-blue-700 md:text-lg"
           href="https://github.com/tchenu"
         >
-          Github
+          Code
         </a>
         <a class="px-6 font-medium text-blue-700 md:text-lg" href="/#articles">
           Articles
