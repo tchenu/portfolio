@@ -6,24 +6,24 @@
       Résumé
     </h3>
     <p class="text-gray-600">
-      🤞🏻
+      👋🏻
       <br />
       <br />
-      Passionné depuis très jeune par l'informatique et notamment par le
+      🚀 Passionné depuis très jeune par l'informatique et notamment par le
       développement web, je me suis formé au départ de manière autodidacte pour
       par la suite développer mes compétences à travers diverses expériences
       professionnelles.
       <br />
       <br />
-      Je serai très heureux de pouvoir utiliser mes compétences pour répondre à
-      vos besoins. Je travaille principalement avec le framework Laravel dans
+      👨🏻‍💻 Je serai très heureux de pouvoir utiliser mes compétences pour répondre
+      à vos besoins. Je travaille principalement avec le framework Laravel dans
       l'objectif de vous délivrer un travail de qualité qui durera dans le temps
       (PSR-12, tests unitaires, code review etc.).
       <br />
       <br />
-      Je possède également des compétences en sécurité informatique que je met à
-      profit lors de programme de Bug Bounty, je suis capable de réaliser des
-      audits avec correction.
+      🔒 Je possède également des compétences en sécurité informatique que je
+      met à profit lors de programme de Bug Bounty, je suis capable de réaliser
+      des audits avec correction.
       <br />
       <br />
       Si vous avez la moindre question n'hésitez pas à me contacter.
