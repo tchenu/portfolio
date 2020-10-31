@@ -23,19 +23,19 @@ export default {
       formations: [
         {
           school: 'ESGI',
-          diploma: 'Mastère Ingénierie du Web en alternance',
+          diploma: 'Mastère Ingénierie du Web (alternance)',
           from: new Date(2020, 8),
           to: new Date(),
         },
         {
           school: 'ESGI',
-          diploma: 'Bachelor Ingénierie du Web en alternance',
+          diploma: 'Bachelor Ingénierie du Web (alternance)',
           from: new Date(2019, 8),
           to: new Date(2020, 8),
         },
         {
           school: 'Université Paris 13',
-          diploma: 'DUT informatique en alternance',
+          diploma: 'DUT informatique (alternance)',
           from: new Date(2017, 8),
           to: new Date(2019, 8),
         },
