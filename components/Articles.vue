@@ -26,7 +26,11 @@
             class="text-blue-500 absolute mt-5 lg:bottom-0"
           >
             Lire sur Medium
-            <img class="inline" src="~/assets/icons/more.svg" />
+            <img
+              alt="Read more on Medium"
+              class="inline"
+              src="~/assets/icons/more.svg"
+            />
           </a>
         </div>
       </div>
@@ -50,7 +54,11 @@
             class="text-blue-500 absolute mt-5 lg:bottom-0"
           >
             Lire sur Medium
-            <img class="inline" src="~/assets/icons/more.svg" />
+            <img
+              alt="Read more on Medium"
+              class="inline"
+              src="~/assets/icons/more.svg"
+            />
           </a>
         </div>
         <div class="article-image-container shadow">
