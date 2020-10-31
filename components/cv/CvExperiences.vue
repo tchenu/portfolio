@@ -135,19 +135,19 @@ export default {
           Développeur full-stack au sein d'une PME offrant ses services de consulting pour des entreprises de toute taille.
           </br>
           </br>
-          - Développement full-stack : évolutions, refontes et maintenances de projets sous PHP 5 et 7 (from scratch, Laravel, Wordpress) avec connectivité SAP, LDAP, Oracle, MongoDB, MariaDB, Algolia, SendinBlue, Mailjet, réalisation de code review et peer programming, création de documentation technique...
+          - Développement full-stack : évolutions, refontes et maintenances de projets sous PHP 5 et 7 (from scratch, Laravel, Wordpress) avec connectivité SAP, LDAP, Oracle, MongoDB, MariaDB, Algolia, SendinBlue, Mailjet, réalisation de code review et peer programming, création de documentation technique, migration de Laravel 6 à 7...
           </br>
           </br>
-          - Recrutement : participation et réalisation d'entretiens d'embauche IT
+          - Recrutement : participation et réalisation d'entretiens d'embauche
           </br>
           </br>
           - Sécurité : audit de sécurité des projets existants, corrections, DevOps -> DevSecOps
           </br>
           </br>
-          - Utilisation de tâches JIRA (Scrum et Kanban) et du service de communication Slack destiné à la gestion des projets
+          - Utilisation de tâches JIRA (Scrum et Kanban) et de Slack
           </br>
           </br>
-          ➡️ une expérience enrichissante de part ses défis techniques
+          ➡️ une expérience enrichissante de part ses défis techniques et les responsabilités accordées
           `,
           from: new Date(2019, 8),
           to: new Date(),
@@ -211,6 +211,9 @@ export default {
             },
             {
               name: 'Refactoring',
+            },
+            {
+              name: 'Migration',
             },
           ],
         },
