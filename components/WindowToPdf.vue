@@ -12,7 +12,7 @@ export default {
   props: {
     label: {
       type: String,
-      default: 'Download as PDF',
+      default: 'Télécharger au format PDF',
     },
   },
   methods: {

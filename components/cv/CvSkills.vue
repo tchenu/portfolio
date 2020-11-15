@@ -40,22 +40,18 @@ export default {
     return {
       roles: [
         {
-          name: 'Back-end Development',
-          years: '6 ans et +',
+          name: 'Développement back-end',
+          years: '4 ans et +',
         },
         {
-          name: 'Front-end Development',
-          years: '6 ans et +',
-        },
-        {
-          name: 'Full Stack Development',
-          years: '6 ans et +',
+          name: 'Développement front-end',
+          years: '4 ans et +',
         },
       ],
       skills: [
         {
           name: 'PHP ⭐️',
-          years: '7 ans et +',
+          years: '4 ans et +',
         },
         {
           name: 'HTML5',
@@ -83,7 +79,7 @@ export default {
         },
         {
           name: 'Laravel ⭐️',
-          years: '6 ans et +',
+          years: '4 ans et +',
         },
         {
           name: 'Symfony ⭐️',

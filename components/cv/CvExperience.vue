@@ -31,6 +31,8 @@ const duration = require('dayjs/plugin/duration')
 const relativeTime = require('dayjs/plugin/relativeTime')
 const isToday = require('dayjs/plugin/isToday')
 
+require('dayjs/locale/fr')
+
 dayjs.extend(duration)
 dayjs.extend(relativeTime)
 dayjs.extend(isToday)
@@ -71,13 +73,13 @@ export default {
     }
   },
   mounted() {
-    const from = dayjs(this.from)
-    const to = dayjs(this.to)
+    const from = dayjs(this.from).locale('fr')
+    const to = dayjs(this.to).locale('fr')
 
     this.currently = to.isToday()
     this.fromFormatted = from.format('MMMM YYYY')
-    this.toFormatted = to.isToday() ? 'Currently' : to.format('MMMM YYYY')
-    this.duration = dayjs.duration(from.diff(to)).humanize()
+    this.toFormatted = to.isToday() ? 'En cours' : to.format('MMMM YYYY')
+    this.duration = dayjs.duration(from.diff(to)).locale('fr').humanize()
   },
 }
 </script>
