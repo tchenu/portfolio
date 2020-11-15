@@ -22,7 +22,7 @@ export default {
     return {
       experiences: [
         {
-          context: 'Freelancing · Full stack',
+          context: 'Freelance · Full stack',
           client: 'Mobstock',
           description: `
           Reprise et refonte d'un site événementiel sous Laravel permettant l'inscription d'utilisateurs à un évènement (avec matching de disponibilités, départements, villes).
@@ -59,7 +59,7 @@ export default {
           ],
         },
         {
-          context: 'Freelancing · Full stack',
+          context: 'Freelance · Full stack',
           client: 'Keeplove',
           description: `
           Cette mission a eu pour but dans un premier temps, d'implémenter un système d'abonnement via la solution Braintree sur un site existant, développé sous le framework Symfony 4.
@@ -129,7 +129,7 @@ export default {
           ],
         },
         {
-          context: 'Apprenticeship - Full stack',
+          context: 'Apprentissage - Full stack',
           client: 'Kerudys',
           description: `
           Développeur full-stack au sein d'une PME offrant ses services de consulting pour des entreprises de toute taille.
@@ -195,10 +195,10 @@ export default {
               name: 'Algolia',
             },
             {
-              name: 'Transactional Emails',
+              name: 'Emails transactionnels',
             },
             {
-              name: 'Marketing campaigns',
+              name: 'Campagnes marketing',
             },
             {
               name: 'Mailjet',
@@ -207,7 +207,7 @@ export default {
               name: 'Sendinblue',
             },
             {
-              name: 'Job interviews',
+              name: "Entretiens d'embauche",
             },
             {
               name: 'Refactoring',

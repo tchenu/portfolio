@@ -58,12 +58,12 @@ export default {
     }
   },
   mounted() {
-    const from = dayjs(this.from)
-    const to = dayjs(this.to)
+    const from = dayjs(this.from).locale('fr')
+    const to = dayjs(this.to).locale('fr')
 
     this.currently = to.isToday()
     this.fromFormatted = from.format('YYYY')
-    this.toFormatted = to.isToday() ? 'Currently' : to.format('YYYY')
+    this.toFormatted = to.isToday() ? 'En cours' : to.format('YYYY')
   },
 }
 </script>
