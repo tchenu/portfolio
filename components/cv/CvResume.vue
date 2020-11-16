@@ -21,6 +21,22 @@
       (PSR-12, tests unitaires, code review etc.).
       <br />
       <br />
+      🧰 Livrables
+      <br />
+      <br />
+      - Création de site vitrine
+      <br />
+      - Création de site dynamique
+      <br />
+      - Migration de site
+      <br />
+      - Création d'API
+      <br />
+      - Audit de sécurité
+      <br />
+      - Maintenance et assistance
+      <br />
+      <br />
       🔒 Je possède également des compétences en sécurité informatique que je
       met à profit lors de programme de Bug Bounty, je suis capable de réaliser
       des audits avec correction.
