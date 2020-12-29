@@ -22,6 +22,59 @@ export default {
     return {
       experiences: [
         {
+          context: 'Freelance · Back-end',
+          client: 'MT2M MEDIA LTD',
+          description: `
+          Cette mission avait pour but de développer une API sous Laravel avec l'ORM Doctrine.
+          </br>
+          </br>
+          ➡️  Mission réalisée sur Malt.`,
+          from: new Date(2020, 11, 14),
+          to: new Date(2020, 12, 31),
+          tags: [
+            {
+              name: 'PHP',
+            },
+            {
+              name: 'Laravel',
+            },
+            {
+              name: 'Doctrine',
+            },
+            {
+              name: 'PostgreSQL',
+            },
+          ],
+        },
+        {
+          context: 'Freelance · Consultant cybersécurité',
+          client: 'Quantium SAS',
+          description: `
+          Cette mission avait pour but de réaliser un audit de sécurité afin d'évaluer le niveau de sécurité d'un site web et d'en apporter les correctifs.
+          </br>
+          </br>
+          - Audit de sécurité en boîte noire et blanche</br>
+          - Rédaction d'un rapport détaillé (CWE, CVSS, corrections apportées etc.)</br>
+          </br>
+          ➡️  Mission réalisée sur Malt.`,
+          from: new Date(2020, 11, 18),
+          to: new Date(2020, 11, 14),
+          tags: [
+            {
+              name: 'PHP',
+            },
+            {
+              name: 'Cybersécurité',
+            },
+            {
+              name: 'Laravel',
+            },
+            {
+              name: 'Google Cloud',
+            },
+          ],
+        },
+        {
           context: 'Freelance · Full stack',
           client: 'Mobstock',
           description: `
