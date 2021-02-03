@@ -16,7 +16,7 @@
           <h1 class="font-extrabold pt-3 lg:pt-0 text-blue-700 text-3xl">
             Ma (petite) participation au challenge Brigitte Friang
           </h1>
-          <span class="text-lg font-light text-blue-700">01.12.2019</span>
+          <span class="text-lg font-light text-blue-700">20.11.2020</span>
           <p class="text-black text-lg mt-2">
             La Direction Générale de la Sécurité Extérieure et l’école ESIEE ont
             organisé un CTF sous le nom de Brigitte Friang en référence à la
