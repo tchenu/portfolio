@@ -25,12 +25,17 @@ export default {
           context: 'Freelance · Back-end',
           client: 'MT2M MEDIA LTD',
           description: `
-          Cette mission avait pour but de développer une API sous Laravel avec l'ORM Doctrine.
+          Cette mission avait pour but de développer l'API d'un réseau social type Patreon sous Laravel.
           </br>
+          </br>
+          - Mise en place de PSP</br>
+          - Mise en place de traitement automatisé de medias (transcodage, floutage, dynamic watermark) avec FFmpeg</br>
+          - Mise en place de SSO (OAuth2)</br>
+          - Code review</br>
           </br>
           ➡️  Mission réalisée sur Malt.`,
           from: new Date(2020, 11, 14),
-          to: new Date(2020, 12, 31),
+          to: new Date(),
           tags: [
             {
               name: 'PHP',
